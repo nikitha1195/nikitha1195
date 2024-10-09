@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello world, ladybug here :)
 
 <!--
 **nikitha1195/nikitha1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
